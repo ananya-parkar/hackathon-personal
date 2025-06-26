@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+optimum[onnxruntime]
+onnxruntime
+transformers
+faiss-cpu
+pytesseract
+Pillow
+PyPDF2
+python-docx
+langdetect

@@ -1,0 +1,120 @@
+[
+  {
+    "timestamp": "2025-06-26T19:40:15.670227",
+    "query": "what is the sabbatical leave policy?",
+    "answer": "Based on the provided document, here's the answer:\n\nSabbatical leaves can be availed by Parkar employees who have completed a minimum of 2 years of service in the organisation and who wish to pursue their education relevant to further career growth. Prior to proceeding on Sabbatical Leave or LWP, the employee is required to accept the terms and conditions of the leave policy by signing the Employee Undertaking with HR.\n\nPlease note that this answer is based solely on the provided document and may not cover all aspects of the Sabbatical Leave Policy.\n\n",
+    "sources": [
+      "Employee Handbook_V3.pdf"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T19:49:02.116241",
+    "query": "what is the POSH policy?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-14 160909.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T19:59:26.616975",
+    "query": "what is the POSH policy?",
+    "answer": "The answer is not available in the provided documents. There is no mention of a \"POSH\" policy in the given context, which appears to be related to an OCR (Optical Character Recognition) failure and technical instructions.\n\n",
+    "sources": [
+      "Screenshot 2025-01-14 160909.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:02:12.315549",
+    "query": "what is the POSH policy?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png",
+      "Screenshot 2025-01-14 160909.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:02:13.000668",
+    "query": "what is the POSH policy?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:02:29.173621",
+    "query": "what is the culture?",
+    "answer": "The answer is not available in the provided documents. There are no entities or context that suggest a specific culture, so it's not possible to determine the culture based on the information provided.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:07:05.429600",
+    "query": "what is the culture?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:17:02.422810",
+    "query": "what is the culture?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:28:06.370042",
+    "query": "what is the culture?",
+    "answer": "The answer is not available in the provided documents.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:32:55.386831",
+    "query": "what is the culture?",
+    "answer": "The answer is not available in the provided documents. The context appears to be a series of error messages related to OCR (Optical Character Recognition) software, but it does not contain any information about culture.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:44:28.458968",
+    "query": "what is the culture?",
+    "answer": "The answer is: Culture is the characteristics and knowledge of a particular group of people, encompassing language, religion, social habits...\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:47:55.687315",
+    "query": "what is the culture?",
+    "answer": "According to the provided context, Culture is defined as \"the characteristics and knowledge of a particular group of people, encompassing language, religion, social habits...\".\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-26T20:48:27.213166",
+    "query": "what is the culture?",
+    "answer": "According to the provided context, Culture is defined as \"the characteristics and knowledge of a particular group of people, encompassing language, religion, social habits...\". This description suggests that culture refers to the shared values, customs, and practices of a specific group or community.\n\n",
+    "sources": [
+      "Screenshot 2025-01-16 151743.png"
+    ],
+    "detected_language": "en"
+  }
+]
